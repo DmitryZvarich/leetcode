@@ -4,6 +4,7 @@ import org.example.common.ListNode;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 import java.util.Random;
 
 public class LinkedListRandomNode382 {
@@ -15,6 +16,8 @@ public class LinkedListRandomNode382 {
             list.add(head.val);
             head = head.next;
         }
+
+
     }
 
     public int getRandom() {
