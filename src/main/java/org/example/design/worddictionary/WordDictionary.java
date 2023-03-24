@@ -1,6 +1,4 @@
-package org.example.worddictionary;
-
-import java.util.*;
+package org.example.design.worddictionary;
 
 public class WordDictionary {
     private WordNode root;

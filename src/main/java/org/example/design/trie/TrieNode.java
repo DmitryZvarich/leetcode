@@ -1,4 +1,4 @@
-package org.example.trie;
+package org.example.design.trie;
 
 public class TrieNode {
     private TrieNode[] links;

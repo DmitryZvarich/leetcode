@@ -1,4 +1,4 @@
-package org.example.worddictionary;
+package org.example.design.worddictionary;
 
 public class WordNode {
     private WordNode[] links;
