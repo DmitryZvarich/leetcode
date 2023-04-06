@@ -1,4 +1,4 @@
-package org.example.greedy;
+package org.example.dfs;
 
 import java.util.HashSet;
 import java.util.Set;
