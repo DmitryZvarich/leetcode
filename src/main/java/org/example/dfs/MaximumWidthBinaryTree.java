@@ -1,4 +1,4 @@
-package org.example.bfs;
+package org.example.dfs;
 
 import org.example.common.TreeNode;
 
