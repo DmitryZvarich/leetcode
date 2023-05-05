@@ -1,4 +1,4 @@
-package org.example.dsu;
+package org.example.unionfind;
 
 public class RemoveMaxNumberEdgesKeepGraphFullyTraversable {
     public int maxNumEdgesToRemove(int n, int[][] edges) {
